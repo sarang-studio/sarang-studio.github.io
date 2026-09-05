@@ -1,7 +1,8 @@
 title: Sarang Studio
 description: Small, private apps for iPhone.
-theme: jekyll-theme-minimal
-# The landing page is plain HTML (index.html); app pages are Markdown rendered
-# with the theme. Add a new app at /<app>/privacy/index.md and list it in index.html.
+# No third-party theme: _layouts/default.html is the whole design, so nothing
+# injects profile links or credits. The landing page is plain HTML (index.html);
+# app pages are Markdown. Add a new app at /<app>/privacy/index.md and list it
+# in index.html.
 exclude:
   - README.md
