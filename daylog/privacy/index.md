@@ -6,7 +6,7 @@ description: What the Daylog iPhone app reads, where it stays, and what it never
 
 # Daylog Privacy Policy
 
-Effective 5 September 2026
+Effective 6 September 2026
 
 Daylog is a personal life record for iPhone, made by Sarang Studio. It fills each day in from what your phone already knows and lets you add your own words. This policy explains what Daylog reads, where it goes, and what it never does.
 
@@ -23,9 +23,9 @@ Daylog is a personal life record for iPhone, made by Sarang Studio. It fills eac
 
 **Photos.** With your permission, Daylog reads the date, time, location and count of the photos and videos in your library to work out where you were on each day, going back through your whole library. It stores those facts, not the pictures. Photos and videos are shown inside Daylog directly from your library and are never copied, edited or deleted. Screenshots and photos from shared or synced sources are skipped.
 
-**Location.** With "Always" permission, iOS tells Daylog when you arrive at and leave a place. Daylog stores those visits as stops on your timeline and remembers the places you name. Daylog does not track your movement continuously and never runs a live location feed.
+**Location.** With "While Using" permission, Daylog asks iOS once each time you open the app where the phone is, at reduced accuracy, and uses that only to fetch today's weather. The position itself is not stored, and Daylog never tracks where you go.
 
-**Weather.** For a day with a known location, Daylog looks up that day's weather and stores a one-line summary.
+**Weather.** For today, Daylog looks up the weather where you are; for a past day with a known photo location, it looks up that day's weather there. It stores a one-line summary.
 
 **What you type.** Mood, habits, meals, the people you ate with, chapters of your life and your journal are stored as you enter them.
 
