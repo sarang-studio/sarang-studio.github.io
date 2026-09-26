@@ -12,3 +12,5 @@ Layout:
 - Support for every app is this repository's Issues page.
 
 Adding an app: create `<app>/privacy/index.md` with the same front matter as the Daylog one, then add a list item to `index.html`.
+
+`planning/` holds design documents for apps that are not built yet. It is excluded from the published site.

@@ -6,3 +6,4 @@ description: Small, private apps for iPhone.
 # in index.html.
 exclude:
   - README.md
+  - planning/
